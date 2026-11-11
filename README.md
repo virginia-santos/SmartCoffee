@@ -9,4 +9,4 @@ CSS Grid
 Responsividade
 
 ##Autor
-Bruno A de Moraes
+Virginia Santos
